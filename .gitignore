@@ -1,0 +1,17 @@
+RinItoshi/config.py
+logfile
+RinItoshi.session
+RinItoshi.session-journal
+*.pyc
+.project
+.pydevproject
+.directory
+okgoogle.png
+*.backup
+sticker.png
+kangsticker.png
+kangsticker.tgs
+kangsticker
+RinItoshi.mp3
+gpic.png
+log.txt
